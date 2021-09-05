@@ -1,0 +1,20 @@
+body{
+    background-size: 100vw 100vh;
+    background-position: center;
+}
+.header{
+    align-items: center;
+    width: 100%;
+}
+.first{
+    font-family: 'Grenze Gotisch', cursive;
+}
+.noteNOTE{
+    color: red;
+}
+label{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}

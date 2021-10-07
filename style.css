@@ -5,6 +5,10 @@ body{
 .header{
     align-items: center;
     width: 100%;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    color: white;
 }
 .first{
     font-family: 'Grenze Gotisch', cursive;
@@ -17,4 +21,15 @@ label{
 }
 h2{
     font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    background: white;
+    width: fit-content;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight:bolder;
+    cursor: pointer;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
 }

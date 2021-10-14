@@ -1,8 +1,9 @@
-body{
+body {
     background-size: 100vw 100vh;
     background-position: center;
 }
-.header{
+
+.header {
     align-items: center;
     width: 100%;
     position: fixed;
@@ -10,26 +11,31 @@ body{
     text-align: center;
     color: white;
 }
-.first{
+
+.first {
     font-family: 'Grenze Gotisch', cursive;
 }
-.noteNOTE{
+
+.noteNOTE {
     color: red;
 }
-label{
+
+label {
     font-family: 'Poppins', sans-serif;
 }
-h2{
+
+h2 {
     font-family: 'Poppins', sans-serif;
     padding: 10px;
     background: white;
     width: fit-content;
     border-radius: 10px;
     font-size: 20px;
-    font-weight:bolder;
+    font-weight: bolder;
     cursor: pointer;
 }
-canvas{
+
+canvas {
     border: 5px solid black;
     border-radius: 20px;
 }

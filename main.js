@@ -14,8 +14,8 @@ songBUTTER_status = "";
 songPTD_status = "";
 
 function preload() {
-    BTS_BUTTER = "BTS_BUTTER.MP3";
-    BTS_PTD = "BTS_PTD.mp3";
+    BTS_BUTTER = "https://drive.google.com/file/d/16OdaHAFuHZGT2uBfwEDliYONzYeU_1kI/view?usp=sharing";
+    BTS_PTD = "https://drive.google.com/file/d/1b47ShII90_dDKLo-ACdzFjDyYt_iy8cA/view?usp=sharing";
 }
 
 function setup() {
